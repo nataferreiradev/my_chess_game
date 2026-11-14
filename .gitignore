@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Chaves SSH locais (host key do servidor) — nunca versionar
+.ssh/
